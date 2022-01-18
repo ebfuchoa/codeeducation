@@ -1,5 +1,3 @@
-# codeeducation
-
 DESCRIÇÃO DO DESAFIO
 
 1) Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
@@ -38,4 +36,4 @@ SOLUÇÃO:
 
 8) E por fim, para testar o que fez, execute o comando <docker run eduardouchoa/codeeducation>. O resultado será <<Code.education Rocks!>>
 
-9) Publique seu projeto no docker hub com o comando <docker push eduardouchoa/codeeducation:latest>
+
