@@ -34,4 +34,11 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 
 8) E, por fim, para testar o que fez, execute o comando <b>docker run eduardouchoa/codeeducation</b>. O resultado será <b>Code.education Rocks!</b>
 
+<b><h1>SUBIR A IMAGEM PRO SEU DOCKER HUB:</b></h1>
 
+docker push eduardouchoa/codeeducation:latest
+
+<b><h1>BAIXAR A IMAGEM E RODAR NA MÁQUINA LOCAL:</b></h1>
+
+docker pull eduardouchoa/codeeducation:latest
+docker run eduardouchoa/codeeducation
