@@ -1,7 +1,7 @@
 <b><h1>DESCRIÇÃO DO DESAFIO</b></h1>
 
 1) Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
-Você terá que publicar uma imagem no docker hub. Quando executarmos: <b>docker run <seu-user>/codeeducation</b>
+Você terá que publicar uma imagem no docker hub. Quando executarmos: <b>docker run (seu usuário do docker hub)/codeeducation</b>
 
 2) Temos que ter o seguinte resultado: Code.education Rocks!
 
