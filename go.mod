@@ -1,3 +1,3 @@
-module github.com/eduardouchoa/codeeducation
+module github.com/ebfuchoa/codeeducation
 
 go 1.17
